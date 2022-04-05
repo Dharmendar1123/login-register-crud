@@ -1,0 +1,11 @@
+.error {
+  color: red;
+}
+
+.success {
+  color: #32cd32;
+}
+
+.textCenter {
+  text-align: center;
+}
